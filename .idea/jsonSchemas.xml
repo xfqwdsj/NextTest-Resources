@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="题库">
+          <value>
+            <SchemaInfo>
+              <option name="generatedName" value="New Schema" />
+              <option name="name" value="题库" />
+              <option name="relativePathToSchema" value="https://nexttest-schemas.xfqlittlefan.xyz/question-library/schema.json" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="question-libraries/memorizing-words/library.yaml" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+        <entry key="题组">
+          <value>
+            <SchemaInfo>
+              <option name="generatedName" value="New Schema" />
+              <option name="name" value="题组" />
+              <option name="relativePathToSchema" value="https://nexttest-schemas.xfqlittlefan.xyz/question-set/v2.json" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="question-libraries/memorizing-words/seph/9a/u1.yaml" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>

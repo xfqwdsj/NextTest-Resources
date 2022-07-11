@@ -1,0 +1,10 @@
+title: 背单词
+description: 单词默写
+author: NextTest
+children:
+  - title: 上海教育出版社
+    description: 上海教育出版社的单词表
+    children:
+      - title: 九年级上册
+        description: 开始吧
+        url: https://nexttest-resources.xfqlittlefan.xyz/question-libraries/memorizing-words/seph/9a/u1.yaml
