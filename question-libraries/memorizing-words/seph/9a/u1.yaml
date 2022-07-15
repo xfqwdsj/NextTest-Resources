@@ -1,4 +1,4 @@
-﻿version: 2
+﻿version: 1
 information:
   title: Unit 1
   description: Unit 1
@@ -8,217 +8,217 @@ random: true
 questions:
   - type: filling
     question: adj. 金的；金色的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: golden
   - type: filling
     question: n. 王冠；皇冠*
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: crown
   - type: filling
     question: n. [pl.] 奥运会
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: Olympics
   - type: filling
     question: n. 同意；应允
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: agreement
   - type: filling
     question: n. 证实*
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: confirmation
   - type: filling
     question: n. 罐
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: pot
   - type: filling
     question: v. 不能肯定；对……无把握
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: doubt
   - type: filling
     question: adj. 真的；正宗的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: real
   - type: filling
     question: n. 真相；实情
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: truth
   - type: filling
     question: v. 好像；似乎
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: seem
   - type: filling
     question: v. 解决；处理
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: solve
   - type: filling
     question: v. 装满；注满
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: fill
   - type: filling
     question: n. 碗；盆
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: bowl
   - type: filling
     question: v. 取代；替代*
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: displace
   - type: filling
     question: det.（与不可数名词连用）较少的；更少的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: less
   - type: filling
     question: n. 金属
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: metal
   - type: filling
     question: adj. 确定的；肯定的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: certain
   - type: filling
     question: n. 监狱；牢狱
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: prison
   - type: filling
     question: n. 拳击（运动）
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: boxing
   - type: filling
     question: n. 赛马（运动）
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: racing
   - type: filling
     question: n. 摔跤运动*
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: wrestling
   - type: filling
     question: v. (hit, hit)（用手或器具）击；打
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: hit
   - type: filling
     question: adj. 勇敢的；无畏的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: brave
   - type: filling
     question: n. 标点符号*
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: punctuation
   - type: filling
     question: adj. 准确无误的；正确的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: correct
   - type: filling
     question: n. 错误
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: mistake
   - type: filling
     question: （对某人或事物）满意的
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: be happy with
   - type: filling
     question: 用……把……装满
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: fill ... with ...
   - type: filling
     question: 溢出
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: run over
   - type: filling
     question: 把……关进监狱
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1
         answer: send ... to prison
   - type: filling
     question: 确保；设法保证
-    banks:
+    blanks:
       - placeholder: 请输入
         scoringMode: strict
         score: 1

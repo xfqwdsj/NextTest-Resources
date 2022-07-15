@@ -24,7 +24,7 @@
             <SchemaInfo>
               <option name="generatedName" value="New Schema" />
               <option name="name" value="题组" />
-              <option name="relativePathToSchema" value="https://nexttest-schemas.xfqlittlefan.xyz/question-set/v2.json" />
+              <option name="relativePathToSchema" value="https://nexttest-schemas.xfqlittlefan.xyz/question-set/v1.json" />
               <option name="patterns">
                 <list>
                   <Item>
