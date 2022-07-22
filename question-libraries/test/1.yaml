@@ -1,0 +1,29 @@
+version: v1
+information:
+  title: Test
+  description: Test
+  version: 1.0.0+1
+  author: Test
+random: false
+questions:
+  - type: selection
+    options:
+      - title: test11
+        isCorrect: false
+        score: 0
+      - title: test12
+        isCorrect: true
+        score: 1
+    selectionType: single
+    question: test1
+  - type: selection
+    selectionType: multiple
+    options:
+      - title: test21
+        isCorrect: true
+        score: 1
+      - title: test22
+        isCorrect: true
+        score: 1
+    scoringMode: loose
+    question: test2
