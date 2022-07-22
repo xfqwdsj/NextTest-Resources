@@ -30,6 +30,9 @@
                   <Item>
                     <option name="path" value="question-libraries/memorizing-words/seph/9a/u1.yaml" />
                   </Item>
+                  <Item>
+                    <option name="path" value="question-libraries/test/1.yaml" />
+                  </Item>
                 </list>
               </option>
             </SchemaInfo>

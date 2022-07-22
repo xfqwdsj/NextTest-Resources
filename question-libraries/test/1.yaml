@@ -8,7 +8,7 @@ random: false
 questions:
   - type: selection
     options:
-      - title: test11
+      - title: "test11\n# aa\n**hello**"
         isCorrect: false
         score: 0
       - title: test12
