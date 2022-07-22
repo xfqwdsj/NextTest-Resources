@@ -15,7 +15,7 @@ questions:
         isCorrect: true
         score: 1
     selectionType: single
-    question: test1
+    question: "test1\n# aa\n**hello**"
   - type: selection
     selectionType: multiple
     options:
