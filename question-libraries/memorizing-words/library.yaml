@@ -6,5 +6,11 @@ children:
     description: 上海教育出版社的单词表
     children:
       - title: 九年级上册
-        description: 开始吧
-        url: https://nexttest-resources.xfqlittlefan.xyz/question-libraries/memorizing-words/seph/9a/u1.yaml
+        description: 上海教育出版社九年级上册的单词表
+        children:
+          - title: Unit 1
+            description: 开始吧
+            url: https://nexttest-resources.xfqlittlefan.xyz/question-libraries/memorizing-words/seph/9a/u1.yaml
+          - title: Unit 2
+            description: 开始吧
+            url: https://nexttest-resources.xfqlittlefan.xyz/question-libraries/memorizing-words/seph/9a/u2.yaml

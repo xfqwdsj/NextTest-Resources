@@ -1,0 +1,260 @@
+version: v1
+information:
+  title: Unit 2
+  description: Unit 2
+  version: 1.0.0+1
+  author: NextTest
+random: true
+questions:
+  - type: filling
+    question: n. 聪明人；富有才智的人
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: mind
+  - type: filling
+    question: n. 天文学家
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: astronomer
+  - type: filling
+    question: n. 天才*
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: genius
+  - type: filling
+    question: v. 认为；觉得
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: consider
+  - type: filling
+    question: n. 理解力；判断力
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: sense
+  - type: filling
+    question: n. 幽默
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: humour
+  - type: filling
+    question: n. 邀请
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: invitation
+  - type: filling
+    question: n. 学说；论；说*
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: theory
+  - type: filling
+    question: n.（综合性）大学
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: university
+  - type: filling
+    question: n. 乐事；快事
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: pleasure
+  - type: filling
+    question: v. 避免；避开
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: avoid
+  - type: filling
+    question: n. 讲座；演讲
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: lecture
+  - type: filling
+    question: adv. 在今夜；在今晚
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: tonight
+  - type: filling
+    question: n. 观众；听众
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: audience
+  - type: filling
+    question: v. 信任；信赖
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: trust
+  - type: filling
+    question: n. 座位
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: seat
+  - type: filling
+    question: n. 鼓掌；喝彩*
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: applause
+  - type: filling
+    question: adj. 苍白的
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: pale
+  - type: filling
+    question: n. 成就；成绩
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: achievement
+  - type: filling
+    question: n. 宇宙
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: universe
+  - type: filling
+    question: n. 哲学家*
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: philosopher
+  - type: filling
+    question: v. 服从；遵守
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: obey
+  - type: filling
+    question: v. 减少；缩小
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: reduce
+  - type: filling
+    question: adv. 精确地；准确地
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: exactly
+  - type: filling
+    question: n.（故事、戏剧等中的）情节
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: action
+  - type: filling
+    question: 幽默感
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: sense of humour
+  - type: filling
+    question: 使……失望
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: let ... down
+  - type: filling
+    question: 单凭记忆；能背诵
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: by heart
+  - type: filling
+    question: 坐下
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: take a seat
+  - type: filling
+    question: 轻而易举
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: without difficulty
+  - type: filling
+    question: 参加；加入
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: join in
+  - type: filling
+    question: 丝毫不知道
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: have no idea
+  - type: filling
+    question: 倒霉；处于困境
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: be in trouble
+  - type: filling
+    question: 跟某人开玩笑；捉弄某人
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: play a joke on sb.
+  - type: filling
+    question: 转折点
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: turning point
+  - type: filling
+    question: 一系列
+    blanks:
+      - placeholder: 请输入
+        scoringMode: strict
+        score: 1
+        answer: a series of
